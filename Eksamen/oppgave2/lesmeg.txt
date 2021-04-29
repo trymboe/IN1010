@@ -1,0 +1,6 @@
+Jeg endret litt på spillereglene (som oppgaven tillot). I spillet mitt kan man enten plukke opp en gjenstand eller selge, ikke begge deler. Det føler jeg gir litt mer strategi til spillet. I Spill() og Spiller() finnes det en del variabler som er tilrettelagt for flerspillermodus, som i denne versjonen ikke har noe funksjon. Dette er fordi jeg laget spillet med flerspillermodus fra starten av, men slettet valgmulighetene i oppgave2 før jeg leverte.
+
+Jeg så i etterkant at jeg skulle la terminal og robot implementere brukergrensesnittet. Jeg lot terreng implementere deg og lage terminal -og robot-objekter. Jeg valgte å ikke endre det siden alle programversjonene kjører på den måten, og det ikke gir noe merkbar nedsatt kjøreevne.
+
+Man har 3 plasser i ryggsekk/skattekiste
+Skattekisten betaler ut +/- 25% av oppgitt pris

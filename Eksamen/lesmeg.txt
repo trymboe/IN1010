@@ -1,0 +1,2 @@
+I denne versjonen blir brukeren spurt om hvor mange spillere som skal delta
+Spillet har vaert optimert for flerspill fra starten, saa eneste endring er linje 26-31 i Spill.java
